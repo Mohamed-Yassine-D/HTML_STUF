@@ -1,0 +1,122 @@
+body {
+        margin-left: 50px;
+        margin-right: 50px;
+        padding: 0;
+        background: gray;
+        border-color: grey; }
+
+
+
+header {
+        style="margin: 0;
+        padding: 10px;
+        background: whitesmoke;
+        border-color: grey;
+        border: 1px solid; }
+
+.fr {
+        padding: 0px;
+        margin-bottom: 30px;
+        background: blue; }
+
+
+.txt {
+        font-size: 1.0em;
+        font-weight: bold;
+        color: black;
+        margin: 0;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-style: oblique; }
+
+.titr {
+        font-size: 1.0em;
+        font-weight: bold;
+        color: black;
+        margin: 0;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-style: oblique; }
+
+.comi {
+        font-size: 1.0em;
+        font-family: cursive;
+        color: black;}
+
+
+
+
+p {
+        font-size: 1.0em;
+        font-weight: bold;
+        color: white;
+        margin: 0;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-style: oblique; }
+
+h1 {
+        font-size: 0.80em;
+        font-weight: bold;
+        font-style: italic;
+        color: black;
+        margin: 0;
+        padding: 0; }
+
+
+
+a {
+        color: #900;
+        text-decoration: none; }
+
+
+.div1 {
+        background: blue;
+        width: 100%;
+        text-align: center; }
+
+.div2 {
+        background: white;
+        width: 50%; }    
+
+.test {
+        background-image:url(/home/book/Documents/Script_Html/Tool/img/ipo.jpg);
+        background-size: 100%; }
+
+
+.section {
+        display: flex;}
+
+.div3 {
+        background: whitesmoke;
+        width: 50%;
+        height: 200px;
+        justify-content: normal;
+        border-width: thick;
+        border-color: darkblue;
+        border-style: groove; }
+
+.div4 {
+
+        background: whitesmoke;
+        width: 50%;
+        height: 200px;
+        justify-content: normal;
+        border-width: thick;
+        border-color: darkblue;
+        border-style: groove; }
+
+
+
+.test {
+    
+    margin: 50px;
+    height: 400px;
+    justify-content: normal;
+    border-width: thick;
+    border-color: darkblue;
+    border-style: groove;
+}
